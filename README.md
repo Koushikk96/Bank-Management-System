@@ -28,7 +28,7 @@ g++ main.cpp -o bank
 ## How to Run
 
 ```bash
-.\bank.exe
+./bank
 ```
 
 ## Sample Output
